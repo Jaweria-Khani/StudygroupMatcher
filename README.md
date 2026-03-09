@@ -1,7 +1,7 @@
 
-  # Storyboard for Study Group Matcher
+  # Study Group Matcher
 
-  This is a code bundle for Storyboard for Study Group Matcher. The original project is available at https://www.figma.com/design/7MBb5WNSjtUMaGi0nZHHX6/Storyboard-for-Study-Group-Matcher.
+  This is a code bundle for Study Group Matcher. The original project is available at https://www.figma.com/design/7MBb5WNSjtUMaGi0nZHHX6/Study-Group-Matcher.
 
   ## Running the code
 
